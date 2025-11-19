@@ -1,0 +1,756 @@
+Genus,Host,Count
+2008,Cucumber,1
+Anguina,Barley,7
+Anguina,Beet,6
+Anguina,Citrus,1
+Anguina,Clover,1
+Anguina,Corn,6
+Anguina,Eggplant,6
+Anguina,Fescue,1
+Anguina,Grass,15
+Anguina,Orange,1
+Anguina,Pea,1
+Anguina,Plantain,1
+Anguina,Potato,7
+Anguina,Rose,1
+Anguina,Ryegrass,9
+Anguina,Sorghum,1
+Anguina,Tomato,6
+Anguina,Triticum aestivum,1
+Anguina,Wheat,17
+Aphelenchoides,Alfalfa,3
+Aphelenchoides,Banana,4
+Aphelenchoides,Cassava,1
+Aphelenchoides,Citrus,1
+Aphelenchoides,Ginger,1
+Aphelenchoides,Grape,3
+Aphelenchoides,Grass,2
+Aphelenchoides,Lily,2
+Aphelenchoides,Medicago sativa,3
+Aphelenchoides,Oak,9
+Aphelenchoides,Oryza sativa,1
+Aphelenchoides,Pepper,1
+Aphelenchoides,Pine,21
+Aphelenchoides,Pinus brutia,3
+Aphelenchoides,Pinus edulis,3
+Aphelenchoides,Pinus massoniana,1
+Aphelenchoides,Pinus nigra,3
+Aphelenchoides,Potato,2
+Aphelenchoides,Quercus brantii,3
+Aphelenchoides,Rice,14
+Aphelenchoides,Rose,6
+Aphelenchoides,Soybean,3
+Aphelenchoides,Strawberry,11
+Aphelenchoides,Sugarcane,1
+Aphelenchoides,Sweet Potato,1
+Aphelenchoides,Taro,1
+Aphelenchoides,Tobacco,1
+Aphelenchoides,Willow,3
+Aphelenchoides,Yam,1
+Belonolaimus,Bean,1
+Belonolaimus,Corn,2
+Belonolaimus,Cucumber,2
+Belonolaimus,Cucumis melo,2
+Belonolaimus,Cucumis sativus,2
+Belonolaimus,Glycine max,2
+Belonolaimus,Palm,1
+Belonolaimus,Soybean,4
+Belonolaimus,Strawberry,4
+Belonolaimus,Tomato,2
+Belonolaimus,Vigna radiata,1
+Bursaphelenchus,Coconut,2
+Bursaphelenchus,Fig,3
+Bursaphelenchus,Oak,1
+Bursaphelenchus,Palm,6
+Bursaphelenchus,Pine,64
+Bursaphelenchus,Pinus brutia,2
+Bursaphelenchus,Pinus caribaea,1
+Bursaphelenchus,Pinus halepensis,3
+Bursaphelenchus,Pinus massoniana,3
+Bursaphelenchus,Pinus nigra,2
+Bursaphelenchus,Pinus pinaster,11
+Bursaphelenchus,Pinus radiata,1
+Bursaphelenchus,Pinus rigida,1
+Bursaphelenchus,Pinus strobus,1
+Bursaphelenchus,Pinus sylvestris,2
+Bursaphelenchus,Pinus thunbergii,1
+Bursaphelenchus,Pinus und,3
+Bursaphelenchus,Populus tremuloides,3
+Bursaphelenchus,Potato,5
+Bursaphelenchus,Walnut,3
+Criconema,Almond,1
+Criconema,Apricot,1
+Criconema,Grape,1
+Criconema,Oak,2
+Criconema,Olive,1
+Criconema,Peach,1
+Criconema,Plum,1
+Criconema,Prunus spp,1
+Criconema,Tea,1
+Criconemoides,Pinus edulis,3
+Ditylenchus,Alfalfa,5
+Ditylenchus,Arachis hypogaea,1
+Ditylenchus,Barley,2
+Ditylenchus,Bean,6
+Ditylenchus,Beet,3
+Ditylenchus,Carrot,3
+Ditylenchus,Chickpea,1
+Ditylenchus,Citrus,1
+Ditylenchus,Clover,2
+Ditylenchus,Faba Bean,1
+Ditylenchus,Garlic,4
+Ditylenchus,Medicago sativa,1
+Ditylenchus,Pea,4
+Ditylenchus,Peanut,2
+Ditylenchus,Pine,4
+Ditylenchus,Potato,4
+Ditylenchus,Solanum tuberosum,3
+Ditylenchus,Sugar Beet,3
+Ditylenchus,Trifolium repens,2
+Ditylenchus,Wheat,2
+Dolichodorus,Grass,8
+Dolichodorus,Maple,2
+Dolichodorus,Oak,3
+Dolichodorus,Pine,8
+Dolichodorus,Quercus suber,3
+Globodera,Brassica juncea,13
+Globodera,Fig,1
+Globodera,Potato,50
+Globodera,Solanum dulcamara,2
+Globodera,Solanum pimpinellifolium,6
+Globodera,Solanum species,3
+Globodera,Solanum tuberosum,8
+Globodera,Solanum vernei,2
+Globodera,Tobacco,3
+Globodera,Tomato,8
+Helicotylenchus,Alfalfa,1
+Helicotylenchus,Almond,1
+Helicotylenchus,Apple,1
+Helicotylenchus,Banana,9
+Helicotylenchus,Barley,3
+Helicotylenchus,Beet,3
+Helicotylenchus,Brassica campestris,1
+Helicotylenchus,Cherry,1
+Helicotylenchus,Chickpea,4
+Helicotylenchus,Citrus,2
+Helicotylenchus,Clover,1
+Helicotylenchus,Corn,5
+Helicotylenchus,Cotton,3
+Helicotylenchus,Eggplant,3
+Helicotylenchus,Garlic,1
+Helicotylenchus,Grass,12
+Helicotylenchus,Lentil,3
+Helicotylenchus,Medicago minima,1
+Helicotylenchus,Medicago saliva,1
+Helicotylenchus,Millet,1
+Helicotylenchus,Oak,1
+Helicotylenchus,Olive,1
+Helicotylenchus,Oryza glaberrima,1
+Helicotylenchus,Peach,1
+Helicotylenchus,Peanut,3
+Helicotylenchus,Pear,1
+Helicotylenchus,Pine,1
+Helicotylenchus,Potato,3
+Helicotylenchus,Rice,1
+Helicotylenchus,Soybean,2
+Helicotylenchus,Sugarcane,4
+Helicotylenchus,Sunflower,1
+Helicotylenchus,Tomato,3
+Helicotylenchus,Trifolium pratense,1
+Helicotylenchus,Walnut,1
+Helicotylenchus,Wheat,3
+Hemicycliophora,Grass,2
+Hemicycliophora,Palm,4
+Hemicycliophora,Peach,3
+Hemicycliophora,Prunus persica,3
+Hemicycliophora,Rice,3
+Hemicycliophora,Strawberry,1
+Hemicycliophora,Sugarcane,6
+Heterodera,Alfalfa,4
+Heterodera,Barley,6
+Heterodera,Beet,25
+Heterodera,Beta vulgaris,4
+Heterodera,Cabbage,5
+Heterodera,Carrot,5
+Heterodera,Chickpea,2
+Heterodera,Citrus,1
+Heterodera,Clover,15
+Heterodera,Corn,5
+Heterodera,Cotton,2
+Heterodera,Cucumber,2
+Heterodera,Fescue,1
+Heterodera,Fig,3
+Heterodera,Glycine max,9
+Heterodera,Glycine soja,1
+Heterodera,Grass,14
+Heterodera,Hemp,1
+Heterodera,Hordeum vulgare,1
+Heterodera,Lemon,15
+Heterodera,Lentil,2
+Heterodera,Lettuce,2
+Heterodera,Maize,1
+Heterodera,Medicago genus,1
+Heterodera,Medicago sativa,1
+Heterodera,Oat,3
+Heterodera,Olive,3
+Heterodera,Oryza glaberrima,1
+Heterodera,Oryza sativa,3
+Heterodera,Pea,10
+Heterodera,Peanut,2
+Heterodera,Pigeon Pea,2
+Heterodera,Pisum sativum,1
+Heterodera,Potato,7
+Heterodera,Rice,16
+Heterodera,Rye,1
+Heterodera,Ryegrass,3
+Heterodera,Sesame,2
+Heterodera,Soybean,42
+Heterodera,Sugar Beet,14
+Heterodera,Sugarcane,3
+Heterodera,Tobacco,4
+Heterodera,Tomato,4
+Heterodera,Trifolium repens,3
+Heterodera,Triticale,1
+Heterodera,Triticum aestivum,2
+Heterodera,Triticum durum,2
+Heterodera,Wheat,22
+Heterodera,Willow,3
+Hirschmanniella,Banana,2
+Hirschmanniella,Bean,1
+Hirschmanniella,Cassava,2
+Hirschmanniella,Citrus,2
+Hirschmanniella,Fragaria ananassa,1
+Hirschmanniella,Ginger,2
+Hirschmanniella,Grass,1
+Hirschmanniella,Oryza sativa,2
+Hirschmanniella,Pepper,2
+Hirschmanniella,Pine,1
+Hirschmanniella,Potato,3
+Hirschmanniella,Rice,15
+Hirschmanniella,Soybean,1
+Hirschmanniella,Strawberry,1
+Hirschmanniella,Sugarcane,3
+Hirschmanniella,Sweet Potato,2
+Hirschmanniella,Taro,3
+Hirschmanniella,Tobacco,2
+Hirschmanniella,Yam,2
+Hoplolaimus,Acacia,3
+Hoplolaimus,Banana,5
+Hoplolaimus,Bean,1
+Hoplolaimus,Cabbage,1
+Hoplolaimus,Cauliflower,1
+Hoplolaimus,Citrus,3
+Hoplolaimus,Citrus aurantifolia,3
+Hoplolaimus,Citrus limon,3
+Hoplolaimus,Citrus paradisi,3
+Hoplolaimus,Citrus sinensis,3
+Hoplolaimus,Corn,1
+Hoplolaimus,Cotton,5
+Hoplolaimus,Eucalyptus,3
+Hoplolaimus,Eucalyptus microtheca,3
+Hoplolaimus,Fig,1
+Hoplolaimus,Glycine max,1
+Hoplolaimus,Gossypium barbadense,3
+Hoplolaimus,Grass,5
+Hoplolaimus,Groundnut,1
+Hoplolaimus,Maize,2
+Hoplolaimus,Musa cropping,1
+Hoplolaimus,Musa roots,1
+Hoplolaimus,Musa sapentium,3
+Hoplolaimus,Peach,1
+Hoplolaimus,Pineapple,1
+Hoplolaimus,Plantain,1
+Hoplolaimus,Potato,1
+Hoplolaimus,Prunus persica,1
+Hoplolaimus,Radish,1
+Hoplolaimus,Rice,1
+Hoplolaimus,Ryegrass,1
+Hoplolaimus,Saccharum officinarum,3
+Hoplolaimus,Sorghum,3
+Hoplolaimus,Soybean,4
+Hoplolaimus,Sugarcane,6
+Hoplolaimus,Sweet Potato,1
+Hoplolaimus,Tomato,3
+Hoplolaimus,Tulip,4
+Litylenchus,Maple,1
+Longidorus,Apple,1
+Longidorus,Banana,2
+Longidorus,Barley,2
+Longidorus,Bean,2
+Longidorus,Beet,2
+Longidorus,Cherry,3
+Longidorus,Citrus,2
+Longidorus,Corn,2
+Longidorus,Fragaria ananassa,1
+Longidorus,Grape,2
+Longidorus,Grass,3
+Longidorus,Lettuce,1
+Longidorus,Maize,3
+Longidorus,Nicotiana occidentalis,1
+Longidorus,Oak,6
+Longidorus,Olive,9
+Longidorus,Palm,5
+Longidorus,Peach,5
+Longidorus,Phaseolus vulgaris,1
+Longidorus,Pine,5
+Longidorus,Pinus sylvestris,2
+Longidorus,Pinus taeda,3
+Longidorus,Plum,2
+Longidorus,Potato,3
+Longidorus,Quercus crassipes,3
+Longidorus,Quercus petraea,3
+Longidorus,Raspberry,5
+Longidorus,Ryegrass,1
+Longidorus,Soybean,7
+Longidorus,Spinach,1
+Longidorus,Strawberry,2
+Longidorus,Sugar Beet,1
+Longidorus,Tobacco,2
+Longidorus,Tomato,2
+Longidorus,Vitis vinifera,9
+Longidorus,Walnut,2
+Longidorus,Wheat,1
+Meloidodera,Oak,2
+Meloidodera,Pine,2
+Meloidodera,Pinus parviflora,1
+Meloidodera,Soybean,1
+Meloidogyne,Allium canadense,1
+Meloidogyne,Arachis hypogaea,1
+Meloidogyne,Banana,1
+Meloidogyne,Barley,3
+Meloidogyne,Bean,2
+Meloidogyne,Beet,9
+Meloidogyne,Beetroot,10
+Meloidogyne,Beta vulgaris,13
+Meloidogyne,Blueberry,1
+Meloidogyne,Brassica juncea,1
+Meloidogyne,Cacao,1
+Meloidogyne,Carrot,1
+Meloidogyne,Cherry,1
+Meloidogyne,Chickpea,7
+Meloidogyne,Citrus,1
+Meloidogyne,Clover,3
+Meloidogyne,Coffea arabica,20
+Meloidogyne,Coffea canephora,8
+Meloidogyne,Coffea liberica,1
+Meloidogyne,Coffee,36
+Meloidogyne,Corn,4
+Meloidogyne,Cotton,11
+Meloidogyne,Cowpea,5
+Meloidogyne,Cucumber,16
+Meloidogyne,Cucumis melo,6
+Meloidogyne,Cucumis sativus,7
+Meloidogyne,Eggplant,11
+Meloidogyne,Eucalyptus,11
+Meloidogyne,Eucalyptus citriodora,1
+Meloidogyne,Eucalyptus hybrida,1
+Meloidogyne,Eucalyptus meliodora,10
+Meloidogyne,Fescue,1
+Meloidogyne,Ginger,2
+Meloidogyne,Glycine max,2
+Meloidogyne,Gossypium spp,1
+Meloidogyne,Grass,7
+Meloidogyne,Lactuca sativa,1
+Meloidogyne,Lettuce,1
+Meloidogyne,Lycopersicon esculentum,2
+Meloidogyne,Lycopersicon peruvianum,4
+Meloidogyne,Maple,1
+Meloidogyne,Medicago lupulina,1
+Meloidogyne,Musa spp,1
+Meloidogyne,Nicotiana tabacum,1
+Meloidogyne,Oak,6
+Meloidogyne,Oat,1
+Meloidogyne,Olive,11
+Meloidogyne,Papaya,1
+Meloidogyne,Pea,4
+Meloidogyne,Peach,3
+Meloidogyne,Peanut,13
+Meloidogyne,Pear,2
+Meloidogyne,Pecan,1
+Meloidogyne,Pepper,12
+Meloidogyne,Phaseolus vulgaris,2
+Meloidogyne,Pine,4
+Meloidogyne,Pinus clausa,2
+Meloidogyne,Pinus taeda,1
+Meloidogyne,Plantain,1
+Meloidogyne,Plum,1
+Meloidogyne,Potato,15
+Meloidogyne,Prunus accessions,1
+Meloidogyne,Quercus brantii,2
+Meloidogyne,Quercus laevis,1
+Meloidogyne,Quercus palustris,4
+Meloidogyne,Quercus phellos,1
+Meloidogyne,Quercus spp,2
+Meloidogyne,Rice,20
+Meloidogyne,Rye,1
+Meloidogyne,Ryegrass,3
+Meloidogyne,Solanum aethiopicum,4
+Meloidogyne,Solanum americanum,1
+Meloidogyne,Solanum incanum,4
+Meloidogyne,Solanum lycopersicum,20
+Meloidogyne,Solanum macrocarpon,4
+Meloidogyne,Solanum melongena,11
+Meloidogyne,Solanum nigrum,6
+Meloidogyne,Solanum sisymbriifolium,4
+Meloidogyne,Solanum species,1
+Meloidogyne,Solanum spp,1
+Meloidogyne,Solanum torvum,4
+Meloidogyne,Solanum tuberosum,1
+Meloidogyne,Soybean,14
+Meloidogyne,Strawberry,12
+Meloidogyne,Tea,2
+Meloidogyne,Theobroma cacao,1
+Meloidogyne,Tobacco,12
+Meloidogyne,Tomato,193
+Meloidogyne,Trifolium repens,3
+Meloidogyne,Vigna species,4
+Meloidogyne,Vigna unguiculata,4
+Meloidogyne,Vitis cinerea,2
+Meloidogyne,Vitis labrusca,1
+Meloidogyne,Vitis vinifera,3
+Meloidogyne,Wheat,16
+Mesocriconema,Acacia,3
+Mesocriconema,Alfalfa,2
+Mesocriconema,Almond,1
+Mesocriconema,Beet,2
+Mesocriconema,Cotton,1
+Mesocriconema,Grape,2
+Mesocriconema,Grass,3
+Mesocriconema,Oak,2
+Mesocriconema,Peanut,2
+Mesocriconema,Pineapple,1
+Mesocriconema,Pinus compartments,3
+Mesocriconema,Potato,1
+Mesocriconema,Prunus dulcis,1
+Mesocriconema,Prunus orchard,1
+Mesocriconema,Sorghum,1
+Mesocriconema,Sugar Beet,2
+Mesocriconema,Sweet Potato,1
+Mesocriconema,Vitis species,2
+Mesocriconema,Walnut,1
+Mesocriconema,Wheat,2
+Nacobbus,Beet,1
+Nacobbus,Pepper,1
+Nacobbus,Pine,3
+Nacobbus,Potato,3
+Nacobbus,Sugar Beet,1
+Nacobbus,Tomato,3
+Nanidorus,Kiwi,2
+Paratrichodorus,Alfalfa,1
+Paratrichodorus,Bean,1
+Paratrichodorus,Blueberry,3
+Paratrichodorus,Brassica crops,1
+Paratrichodorus,Brassica cultivars,1
+Paratrichodorus,Brassica green,1
+Paratrichodorus,Brassica plants,1
+Paratrichodorus,Citrus,1
+Paratrichodorus,Citrus sinensis,1
+Paratrichodorus,Corn,1
+Paratrichodorus,Orange,1
+Paratrichodorus,Pea,1
+Paratrichodorus,Pepper,1
+Paratrichodorus,Potato,3
+Paratrichodorus,Rye,1
+Paratrichodorus,Sugarcane,1
+Paratrichodorus,Tobacco,5
+Paratrichodorus,Tulip,1
+Paratrichodorus,Wheat,1
+Pratylenchus,Alfalfa,6
+Pratylenchus,Allium cepa,2
+Pratylenchus,Almond,2
+Pratylenchus,Apple,15
+Pratylenchus,Banana,24
+Pratylenchus,Barley,12
+Pratylenchus,Bean,4
+Pratylenchus,Blueberry,3
+Pratylenchus,Brassica juncea,3
+Pratylenchus,Brassica napus,1
+Pratylenchus,Brassica spp,1
+Pratylenchus,Canola,2
+Pratylenchus,Carrot,9
+Pratylenchus,Cassava,2
+Pratylenchus,Chickpea,4
+Pratylenchus,Chrysanthemum,5
+Pratylenchus,Citrus,5
+Pratylenchus,Citrus aurantium,1
+Pratylenchus,Coffea arabica,2
+Pratylenchus,Coffea canephora,2
+Pratylenchus,Coffea liberica,2
+Pratylenchus,Coffee,7
+Pratylenchus,Corn,5
+Pratylenchus,Cotton,8
+Pratylenchus,Daucus carota,3
+Pratylenchus,Eggplant,1
+Pratylenchus,Eucalyptus,1
+Pratylenchus,Eucalyptus citriodora,1
+Pratylenchus,Eucalyptus globulus,1
+Pratylenchus,Faba Bean,1
+Pratylenchus,Fig,1
+Pratylenchus,Flax,1
+Pratylenchus,Ginger,2
+Pratylenchus,Glycine max,2
+Pratylenchus,Gossypium hirsutum,1
+Pratylenchus,Grape,4
+Pratylenchus,Grass,15
+Pratylenchus,Hemp,1
+Pratylenchus,Lemon,2
+Pratylenchus,Lentil,1
+Pratylenchus,Lily,4
+Pratylenchus,Maize,9
+Pratylenchus,Malus domestica,1
+Pratylenchus,Millet,1
+Pratylenchus,Musa acuminata,1
+Pratylenchus,Musa paradisiaca,2
+Pratylenchus,Musa plants,1
+Pratylenchus,Musa spp,2
+Pratylenchus,Oat,7
+Pratylenchus,Olive,6
+Pratylenchus,Onion,2
+Pratylenchus,Orange,1
+Pratylenchus,Oryza glaberrima,1
+Pratylenchus,Oryza sativa,2
+Pratylenchus,Palm,2
+Pratylenchus,Pea,7
+Pratylenchus,Pepper,8
+Pratylenchus,Phaseolus angularis,1
+Pratylenchus,Phaseolus vulgaris,1
+Pratylenchus,Pigeon Pea,1
+Pratylenchus,Pine,2
+Pratylenchus,Plantain,4
+Pratylenchus,Potato,14
+Pratylenchus,Raspberry,1
+Pratylenchus,Rice,13
+Pratylenchus,Rose,5
+Pratylenchus,Rye,3
+Pratylenchus,Ryegrass,2
+Pratylenchus,Saccharum officinarum,3
+Pratylenchus,Saccharum sinensis,3
+Pratylenchus,Solanum tuberosum,2
+Pratylenchus,Sorghum,2
+Pratylenchus,Soybean,27
+Pratylenchus,Strawberry,2
+Pratylenchus,Sugarcane,12
+Pratylenchus,Sunflower,3
+Pratylenchus,Sweet Potato,2
+Pratylenchus,Taro,2
+Pratylenchus,Tea,3
+Pratylenchus,Tobacco,2
+Pratylenchus,Tomato,13
+Pratylenchus,Trifolium repens,1
+Pratylenchus,Vitis species,3
+Pratylenchus,Wheat,36
+Pratylenchus,Yam,3
+Radopholus,Banana,19
+Radopholus,Carrot,4
+Radopholus,Cassava,1
+Radopholus,Citrus,8
+Radopholus,Citrus root,1
+Radopholus,Citrus spp,1
+Radopholus,Coffea arabica,3
+Radopholus,Coffea canephora,1
+Radopholus,Coffea liberica,1
+Radopholus,Coffee,6
+Radopholus,Ginger,1
+Radopholus,Grapefruit,1
+Radopholus,Lemon,1
+Radopholus,Musa acuminata,3
+Radopholus,Musa spp,4
+Radopholus,Orange,1
+Radopholus,Pepper,4
+Radopholus,Pine,10
+Radopholus,Plantain,3
+Radopholus,Potato,3
+Radopholus,Rice,1
+Radopholus,Soybean,1
+Radopholus,Sugarcane,1
+Radopholus,Sweet Potato,3
+Radopholus,Taro,1
+Radopholus,Tea,3
+Radopholus,Tobacco,1
+Radopholus,Turmeric,1
+Radopholus,Yam,1
+Rotylenchulus,Almond,1
+Rotylenchulus,Barley,1
+Rotylenchulus,Bean,5
+Rotylenchulus,Chickpea,1
+Rotylenchulus,Clover,1
+Rotylenchulus,Corn,1
+Rotylenchulus,Cotton,9
+Rotylenchulus,Hazelnut,2
+Rotylenchulus,Maize,5
+Rotylenchulus,Millet,1
+Rotylenchulus,Olive,6
+Rotylenchulus,Pea,1
+Rotylenchulus,Peach,1
+Rotylenchulus,Peanut,1
+Rotylenchulus,Pine,10
+Rotylenchulus,Pineapple,1
+Rotylenchulus,Rye,1
+Rotylenchulus,Sorghum,1
+Rotylenchulus,Soybean,5
+Rotylenchulus,Sugarcane,1
+Rotylenchulus,Tomato,4
+Rotylenchulus,Trifolium incarnatum,1
+Rotylenchulus,Wheat,2
+Rotylenchus,Almond,2
+Rotylenchus,Apple,2
+Rotylenchus,Banana,4
+Rotylenchus,Bean,3
+Rotylenchus,Blueberry,1
+Rotylenchus,Carrot,2
+Rotylenchus,Cauliflower,2
+Rotylenchus,Cherry,2
+Rotylenchus,Citrus,3
+Rotylenchus,Citrus reticulata,2
+Rotylenchus,Coffee,1
+Rotylenchus,Grass,2
+Rotylenchus,Maize,1
+Rotylenchus,Millet,3
+Rotylenchus,Olive,9
+Rotylenchus,Orange,3
+Rotylenchus,Papaya,1
+Rotylenchus,Pea,1
+Rotylenchus,Peach,2
+Rotylenchus,Pear,2
+Rotylenchus,Potato,1
+Rotylenchus,Soybean,1
+Rotylenchus,Sunflower,7
+Rotylenchus,Walnut,2
+Rotylenchus,Wheat,1
+Rotylenchus,Yam,11
+Scutellonema,Banana,2
+Scutellonema,Barley,4
+Scutellonema,Carrot,1
+Scutellonema,Coconut,4
+Scutellonema,Corn,1
+Scutellonema,Grass,13
+Scutellonema,Groundnut,1
+Scutellonema,Maize,5
+Scutellonema,Millet,4
+Scutellonema,Peanut,1
+Scutellonema,Plantain,1
+Scutellonema,Rice,1
+Scutellonema,Rubber,2
+Scutellonema,Sorghum,4
+Scutellonema,Soybean,2
+Scutellonema,Sugarcane,13
+Scutellonema,Tomato,3
+Scutellonema,Wheat,4
+Scutellonema,Yam,6
+Trichodorus,Asparagus,1
+Trichodorus,Beet,1
+Trichodorus,Blueberry,1
+Trichodorus,Cucumber,2
+Trichodorus,Nicotiana clevelandii,1
+Trichodorus,Oak,3
+Trichodorus,Oryza sativa,2
+Trichodorus,Pea,2
+Trichodorus,Peach,3
+Trichodorus,Pear,10
+Trichodorus,Phaseolus vulgaris,1
+Trichodorus,Pine,2
+Trichodorus,Pinus spp,1
+Trichodorus,Pinus sylvestris,1
+Trichodorus,Potato,3
+Trichodorus,Quercus crassipes,3
+Trichodorus,Rice,5
+Trichodorus,Spinach,1
+Trichodorus,Tobacco,5
+Tylenchorhynchus,Acacia,2
+Tylenchorhynchus,Alfalfa,1
+Tylenchorhynchus,Banana,1
+Tylenchorhynchus,Bean,1
+Tylenchorhynchus,Cauliflower,1
+Tylenchorhynchus,Citrus,1
+Tylenchorhynchus,Clover,1
+Tylenchorhynchus,Corn,5
+Tylenchorhynchus,Cotton,3
+Tylenchorhynchus,Cowpea,2
+Tylenchorhynchus,Fescue,1
+Tylenchorhynchus,Fig,2
+Tylenchorhynchus,Grape,1
+Tylenchorhynchus,Grass,6
+Tylenchorhynchus,Groundnut,1
+Tylenchorhynchus,Maize,3
+Tylenchorhynchus,Millet,1
+Tylenchorhynchus,Oat,1
+Tylenchorhynchus,Palm,1
+Tylenchorhynchus,Papaya,1
+Tylenchorhynchus,Pine,1
+Tylenchorhynchus,Pineapple,1
+Tylenchorhynchus,Pinus edulis,1
+Tylenchorhynchus,Potato,3
+Tylenchorhynchus,Rice,4
+Tylenchorhynchus,Rye,1
+Tylenchorhynchus,Ryegrass,1
+Tylenchorhynchus,Solanum tuberosum,2
+Tylenchorhynchus,Sorghum,1
+Tylenchorhynchus,Soybean,6
+Tylenchorhynchus,Sugarcane,4
+Tylenchorhynchus,Tea,1
+Tylenchorhynchus,Tobacco,1
+Tylenchorhynchus,Tomato,2
+Tylenchorhynchus,Trifolium spp,2
+Tylenchorhynchus,Triticum aestivum,2
+Tylenchorhynchus,Wheat,8
+Tylenchulus,Banana,4
+Tylenchulus,Brassica cultivars,1
+Tylenchulus,Brassica green,1
+Tylenchulus,Brassica hirta,3
+Tylenchulus,Brassica oleraceae,3
+Tylenchulus,Brassica spp,1
+Tylenchulus,Broccoli,3
+Tylenchulus,Citrus,8
+Tylenchulus,Citrus limon,1
+Tylenchulus,Grape,4
+Tylenchulus,Grass,1
+Tylenchulus,Lemon,2
+Tylenchulus,Oak,3
+Tylenchulus,Orange,6
+Tylenchulus,Pea,1
+Tylenchulus,Peach,1
+Tylenchulus,Pine,3
+Tylenchulus,Pinus clausa,3
+Tylenchulus,Pinus elliottii,3
+Tylenchulus,Prunus persica,1
+Tylenchulus,Quercus falcata,3
+Tylenchulus,Sugarcane,4
+Tylenchulus,Vitis species,4
+Xiphinema,Acacia,2
+Xiphinema,Brassica species,1
+Xiphinema,Cassava,1
+Xiphinema,Cherry,5
+Xiphinema,Corn,1
+Xiphinema,Cotton,1
+Xiphinema,Cucumber,1
+Xiphinema,Eucalyptus,3
+Xiphinema,Fig,1
+Xiphinema,Grape,1
+Xiphinema,Groundnut,1
+Xiphinema,Kiwi,1
+Xiphinema,Maize,2
+Xiphinema,Malus domestica,1
+Xiphinema,Maple,2
+Xiphinema,Medicago plant,2
+Xiphinema,Medicago species,2
+Xiphinema,Millet,1
+Xiphinema,Olive,40
+Xiphinema,Peach,6
+Xiphinema,Peanut,1
+Xiphinema,Pine,6
+Xiphinema,Pineapple,1
+Xiphinema,Plum,1
+Xiphinema,Potato,1
+Xiphinema,Prunus besseyi,1
+Xiphinema,Prunus necrotic,1
+Xiphinema,Prunus persica,1
+Xiphinema,Raspberry,2
+Xiphinema,Solanum tuberosum,1
+Xiphinema,Soybean,5
+Xiphinema,Strawberry,2
+Xiphinema,Sugarcane,5
+Xiphinema,Tobacco,3
+Xiphinema,Tomato,7
+Xiphinema,Triticum aestivum,3
+Xiphinema,Vitis rupestris,1
+Xiphinema,Wheat,5
