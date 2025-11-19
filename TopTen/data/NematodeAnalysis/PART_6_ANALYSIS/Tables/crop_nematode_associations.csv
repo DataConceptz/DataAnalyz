@@ -1,0 +1,147 @@
+Crop,Genus,Mentions,Total_Citations
+Tomato,Meloidogyne,193,18743
+Coffee,Pratylenchus,65,3832
+Potato,Globodera,52,4768
+Coffee,Meloidogyne,47,1720
+Soybean,Heterodera,42,5721
+Wheat,Pratylenchus,36,2637
+Banana,Pratylenchus,27,933
+Soybean,Pratylenchus,27,435
+Rice,Meloidogyne,26,1043
+Wheat,Heterodera,22,3118
+Rice,Hirschmanniella,22,476
+Rice,Heterodera,21,323
+Banana,Radopholus,19,301
+Wheat,Anguina,17,191
+Potato,Pratylenchus,17,262
+Wheat,Meloidogyne,16,713
+Soybean,Meloidogyne,15,552
+Potato,Meloidogyne,15,1314
+Rice,Aphelenchoides,14,207
+Corn/Maize,Pratylenchus,14,325
+Coffee,Radopholus,13,148
+Sugar cane,Pratylenchus,13,440
+Sugar cane,Scutellonema,13,91
+Rice,Pratylenchus,13,293
+Tomato,Pratylenchus,13,211
+Cotton,Meloidogyne,11,321
+Wheat,Tylenchorhynchus,11,204
+Banana,Helicotylenchus,9,315
+Cotton,Rotylenchulus,9,605
+Rice,Xiphinema,8,52
+Cotton,Hoplolaimus,8,54
+Banana,Hoplolaimus,8,84
+Tomato,Globodera,8,1672
+Cotton,Pratylenchus,8,136
+Corn/Maize,Tylenchorhynchus,8,47
+Corn/Maize,Heterodera,8,244
+Banana,Rotylenchus,7,1
+Potato,Heterodera,7,187
+Potato,Anguina,7,45
+Tomato,Xiphinema,7,94
+Soybean,Longidorus,7,93
+Soybean,Tylenchorhynchus,6,82
+Corn/Maize,Scutellonema,6,94
+Sugar cane,Hoplolaimus,6,25
+Sugar cane,Hemicycliophora,6,57
+Corn/Maize,Xiphinema,6,57
+Tomato,Anguina,6,24
+Corn/Maize,Rotylenchulus,6,180
+Corn/Maize,Anguina,6,24
+Corn/Maize,Bursaphelenchus,6,174
+Potato,Bursaphelenchus,5,72
+Wheat,Xiphinema,5,5
+Rice,Trichodorus,5,20
+Rice,Helicotylenchus,5,116
+Coffee,Scutellonema,5,79
+Soybean,Rotylenchulus,5,45
+Soybean,Xiphinema,5,104
+Sugar cane,Xiphinema,5,203
+Coffee,Hirschmanniella,5,253
+Corn/Maize,Longidorus,5,25
+Corn/Maize,Helicotylenchus,5,70
+Tomato,Rotylenchulus,4,84
+Corn/Maize,Rotylenchus,4,43
+Tomato,Heterodera,4,96
+Potato,Ditylenchus,4,94
+Banana,Aphelenchoides,4,32
+Sugar cane,Tylenchulus,4,44
+Coffee,Tylenchorhynchus,4,24
+Sugar cane,Helicotylenchus,4,138
+Sugar cane,Tylenchorhynchus,4,95
+Rice,Tylenchorhynchus,4,64
+Wheat,Scutellonema,4,68
+Soybean,Belonolaimus,4,106
+Soybean,Hoplolaimus,4,67
+Banana,Tylenchulus,4,44
+Corn/Maize,Meloidogyne,4,67
+Rice,Radopholus,4,25
+Tomato,Scutellonema,3,57
+Tomato,Nacobbus,3,62
+Tomato,Longidorus,3,80
+Tomato,Helicotylenchus,3,12
+Tomato,Hoplolaimus,3,58
+Potato,Trichodorus,3,84
+Potato,Radopholus,3,25
+Potato,Helicotylenchus,3,12
+Potato,Hirschmanniella,3,61
+Corn/Maize,Hoplolaimus,3,39
+Sugar cane,Heterodera,3,89
+Sugar cane,Hirschmanniella,3,67
+Cotton,Tylenchorhynchus,3,32
+Cotton,Helicotylenchus,3,28
+Wheat,Helicotylenchus,3,12
+Rice,Anguina,3,84
+Rice,Hemicycliophora,3,18
+Rice,Globodera,3,442
+Soybean,Aphelenchoides,3,39
+Potato,Longidorus,3,20
+Potato,Tylenchorhynchus,3,20
+Potato,Paratrichodorus,3,93
+Potato,Nacobbus,3,62
+Tomato,Belonolaimus,2,42
+Tomato,Tylenchorhynchus,2,14
+Banana,Scutellonema,2,24
+Wheat,Ditylenchus,2,458
+Wheat,Mesocriconema,2,0
+Potato,Aphelenchoides,2,28
+Wheat,Rotylenchulus,2,19
+Cotton,Heterodera,2,4
+Corn/Maize,Belonolaimus,2,6
+Sugar cane,Radopholus,2,23
+Banana,Hirschmanniella,2,46
+Rice,Hoplolaimus,2,16
+Soybean,Helicotylenchus,2,23
+Soybean,Scutellonema,2,54
+Banana,Longidorus,2,14
+Banana,Meloidogyne,2,35
+Potato,Xiphinema,1,1
+Cotton,Xiphinema,1,12
+Soybean,Rotylenchus,1,27
+Soybean,Meloidodera,1,16
+Soybean,Radopholus,1,0
+Soybean,Hirschmanniella,1,15
+Potato,Hoplolaimus,1,15
+Wheat,Rotylenchus,1,16
+Potato,Rotylenchus,1,16
+Potato,Mesocriconema,1,6
+Wheat,Longidorus,1,5
+Rice,Scutellonema,1,11
+Rice,Longidorus,1,28
+Wheat,Paratrichodorus,1,29
+Corn/Maize,Paratrichodorus,1,29
+Corn/Maize,Litylenchus,1,1
+Cotton,Mesocriconema,1,9
+Corn/Maize,Globodera,1,8
+Coffee,Ditylenchus,1,50
+Banana,Tylenchorhynchus,1,2
+Coffee,Xiphinema,1,69
+Coffee,Aphelenchoides,1,23
+Coffee,Helicotylenchus,1,2
+Coffee,Nacobbus,1,69
+Coffee,Rotylenchus,1,0
+Coffee,Hoplolaimus,1,12
+Sugar cane,Aphelenchoides,1,23
+Sugar cane,Meloidogyne,1,0
+Sugar cane,Paratrichodorus,1,9
+Sugar cane,Rotylenchulus,1,25

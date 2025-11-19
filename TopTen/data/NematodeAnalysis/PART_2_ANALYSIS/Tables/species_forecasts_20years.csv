@@ -1,0 +1,401 @@
+Genus,Species,Year,Forecasted_Count,Model,RMSE
+Meloidogyne,incognita,2023,27.743719344503916,Polynomial (degree=2),13.833838682424247
+Meloidogyne,incognita,2024,28.56085477828674,Polynomial (degree=2),13.833838682424247
+Meloidogyne,incognita,2025,29.389058028034924,Polynomial (degree=2),13.833838682424247
+Meloidogyne,incognita,2026,30.22832909374847,Polynomial (degree=2),13.833838682424247
+Meloidogyne,incognita,2027,31.07866797542738,Polynomial (degree=2),13.833838682424247
+Meloidogyne,incognita,2028,31.94007467306801,Polynomial (degree=2),13.833838682424247
+Meloidogyne,incognita,2029,32.812549186674005,Polynomial (degree=2),13.833838682424247
+Meloidogyne,incognita,2030,33.696091516249,Polynomial (degree=2),13.833838682424247
+Meloidogyne,incognita,2031,34.590701661785715,Polynomial (degree=2),13.833838682424247
+Meloidogyne,incognita,2032,35.496379623287794,Polynomial (degree=2),13.833838682424247
+Meloidogyne,incognita,2033,36.413125400751596,Polynomial (degree=2),13.833838682424247
+Meloidogyne,incognita,2034,37.3409389941844,Polynomial (degree=2),13.833838682424247
+Meloidogyne,incognita,2035,38.279820403578924,Polynomial (degree=2),13.833838682424247
+Meloidogyne,incognita,2036,39.22976962893881,Polynomial (degree=2),13.833838682424247
+Meloidogyne,incognita,2037,40.1907866702677,Polynomial (degree=2),13.833838682424247
+Meloidogyne,incognita,2038,41.16287152755467,Polynomial (degree=2),13.833838682424247
+Meloidogyne,incognita,2039,42.14602420081064,Polynomial (degree=2),13.833838682424247
+Meloidogyne,incognita,2040,43.14024469003198,Polynomial (degree=2),13.833838682424247
+Meloidogyne,incognita,2041,44.145532995215035,Polynomial (degree=2),13.833838682424247
+Meloidogyne,incognita,2042,45.16188911636709,Polynomial (degree=2),13.833838682424247
+Meloidogyne,javanica,2023,24.129208625330648,Polynomial (degree=2),11.472126429432764
+Meloidogyne,javanica,2024,25.180021843632858,Polynomial (degree=2),11.472126429432764
+Meloidogyne,javanica,2025,26.25373634396965,Polynomial (degree=2),11.472126429432764
+Meloidogyne,javanica,2026,27.35035212632647,Polynomial (degree=2),11.472126429432764
+Meloidogyne,javanica,2027,28.46986919072515,Polynomial (degree=2),11.472126429432764
+Meloidogyne,javanica,2028,29.61228753715841,Polynomial (degree=2),11.472126429432764
+Meloidogyne,javanica,2029,30.7776071656117,Polynomial (degree=2),11.472126429432764
+Meloidogyne,javanica,2030,31.96582807611412,Polynomial (degree=2),11.472126429432764
+Meloidogyne,javanica,2031,33.176950268651126,Polynomial (degree=2),11.472126429432764
+Meloidogyne,javanica,2032,34.410973743200884,Polynomial (degree=2),11.472126429432764
+Meloidogyne,javanica,2033,35.667898499799776,Polynomial (degree=2),11.472126429432764
+Meloidogyne,javanica,2034,36.94772453843325,Polynomial (degree=2),11.472126429432764
+Meloidogyne,javanica,2035,38.250451859079476,Polynomial (degree=2),11.472126429432764
+Meloidogyne,javanica,2036,39.57608046178211,Polynomial (degree=2),11.472126429432764
+Meloidogyne,javanica,2037,40.924610346512054,Polynomial (degree=2),11.472126429432764
+Meloidogyne,javanica,2038,42.296041513262026,Polynomial (degree=2),11.472126429432764
+Meloidogyne,javanica,2039,43.690373962053854,Polynomial (degree=2),11.472126429432764
+Meloidogyne,javanica,2040,45.10760769288754,Polynomial (degree=2),11.472126429432764
+Meloidogyne,javanica,2041,46.54774270573398,Polynomial (degree=2),11.472126429432764
+Meloidogyne,javanica,2042,48.010779000629555,Polynomial (degree=2),11.472126429432764
+Meloidogyne,hapla,2021,6.506234284150196,Polynomial (degree=2),2.427053314603431
+Meloidogyne,hapla,2022,6.7147464026147645,Polynomial (degree=2),2.427053314603431
+Meloidogyne,hapla,2023,6.926953589524601,Polynomial (degree=2),2.427053314603431
+Meloidogyne,hapla,2024,7.142855844883343,Polynomial (degree=2),2.427053314603431
+Meloidogyne,hapla,2025,7.362453168689171,Polynomial (degree=2),2.427053314603431
+Meloidogyne,hapla,2026,7.585745560940268,Polynomial (degree=2),2.427053314603431
+Meloidogyne,hapla,2027,7.81273302164027,Polynomial (degree=2),2.427053314603431
+Meloidogyne,hapla,2028,8.043415550787358,Polynomial (degree=2),2.427053314603431
+Meloidogyne,hapla,2029,8.277793148378805,Polynomial (degree=2),2.427053314603431
+Meloidogyne,hapla,2030,8.515865814420067,Polynomial (degree=2),2.427053314603431
+Meloidogyne,hapla,2031,8.757633548906597,Polynomial (degree=2),2.427053314603431
+Meloidogyne,hapla,2032,9.003096351842032,Polynomial (degree=2),2.427053314603431
+Meloidogyne,hapla,2033,9.252254223224554,Polynomial (degree=2),2.427053314603431
+Meloidogyne,hapla,2034,9.505107163052344,Polynomial (degree=2),2.427053314603431
+Meloidogyne,hapla,2035,9.76165517132813,Polynomial (degree=2),2.427053314603431
+Meloidogyne,hapla,2036,10.021898248051912,Polynomial (degree=2),2.427053314603431
+Meloidogyne,hapla,2037,10.285836393220961,Polynomial (degree=2),2.427053314603431
+Meloidogyne,hapla,2038,10.553469606838917,Polynomial (degree=2),2.427053314603431
+Meloidogyne,hapla,2039,10.82479788890123,Polynomial (degree=2),2.427053314603431
+Meloidogyne,hapla,2040,11.099821239413359,Polynomial (degree=2),2.427053314603431
+Meloidogyne,arenaria,2021,4.123926272155586,Polynomial (degree=2),2.0892530237532547
+Meloidogyne,arenaria,2022,4.058786455911104,Polynomial (degree=2),2.0892530237532547
+Meloidogyne,arenaria,2023,3.9883216226699005,Polynomial (degree=2),2.0892530237532547
+Meloidogyne,arenaria,2024,3.9125317724246997,Polynomial (degree=2),2.0892530237532547
+Meloidogyne,arenaria,2025,3.8314169051845965,Polynomial (degree=2),2.0892530237532547
+Meloidogyne,arenaria,2026,3.744977020940496,Polynomial (degree=2),2.0892530237532547
+Meloidogyne,arenaria,2027,3.653212119699674,Polynomial (degree=2),2.0892530237532547
+Meloidogyne,arenaria,2028,3.556122201454855,Polynomial (degree=2),2.0892530237532547
+Meloidogyne,arenaria,2029,3.453707266211495,Polynomial (degree=2),2.0892530237532547
+Meloidogyne,arenaria,2030,3.345967313971414,Polynomial (degree=2),2.0892530237532547
+Meloidogyne,arenaria,2031,3.2329023447273357,Polynomial (degree=2),2.0892530237532547
+Meloidogyne,arenaria,2032,3.114512358488355,Polynomial (degree=2),2.0892530237532547
+Meloidogyne,arenaria,2033,2.990797355245377,Polynomial (degree=2),2.0892530237532547
+Meloidogyne,arenaria,2034,2.8617573350056773,Polynomial (degree=2),2.0892530237532547
+Meloidogyne,arenaria,2035,2.7273922977637994,Polynomial (degree=2),2.0892530237532547
+Meloidogyne,arenaria,2036,2.587702243523381,Polynomial (degree=2),2.0892530237532547
+Meloidogyne,arenaria,2037,2.4426871722826036,Polynomial (degree=2),2.0892530237532547
+Meloidogyne,arenaria,2038,2.2923470840396476,Polynomial (degree=2),2.0892530237532547
+Meloidogyne,arenaria,2039,2.1366819788017892,Polynomial (degree=2),2.0892530237532547
+Meloidogyne,arenaria,2040,1.9756918565599335,Polynomial (degree=2),2.0892530237532547
+Pratylenchus,neglectus,2021,12.072462232186808,Polynomial (degree=2),13.092228241570135
+Pratylenchus,neglectus,2022,11.974354388021311,Polynomial (degree=2),13.092228241570135
+Pratylenchus,neglectus,2023,11.862135534029221,Polynomial (degree=2),13.092228241570135
+Pratylenchus,neglectus,2024,11.73580567022509,Polynomial (degree=2),13.092228241570135
+Pratylenchus,neglectus,2025,11.595364796605281,Polynomial (degree=2),13.092228241570135
+Pratylenchus,neglectus,2026,11.440812913166155,Polynomial (degree=2),13.092228241570135
+Pratylenchus,neglectus,2027,11.272150019904075,Polynomial (degree=2),13.092228241570135
+Pratylenchus,neglectus,2028,11.089376116829953,Polynomial (degree=2),13.092228241570135
+Pratylenchus,neglectus,2029,10.892491203940153,Polynomial (degree=2),13.092228241570135
+Pratylenchus,neglectus,2030,10.68149528122376,Polynomial (degree=2),13.092228241570135
+Pratylenchus,neglectus,2031,10.456388348695327,Polynomial (degree=2),13.092228241570135
+Pratylenchus,neglectus,2032,10.217170406351215,Polynomial (degree=2),13.092228241570135
+Pratylenchus,neglectus,2033,9.96384145418051,Polynomial (degree=2),13.092228241570135
+Pratylenchus,neglectus,2034,9.696401492201403,Polynomial (degree=2),13.092228241570135
+Pratylenchus,neglectus,2035,9.414850520402979,Polynomial (degree=2),13.092228241570135
+Pratylenchus,neglectus,2036,9.119188538788876,Polynomial (degree=2),13.092228241570135
+Pratylenchus,neglectus,2037,8.80941554734818,Polynomial (degree=2),13.092228241570135
+Pratylenchus,neglectus,2038,8.485531546095444,Polynomial (degree=2),13.092228241570135
+Pratylenchus,neglectus,2039,8.14753653502703,Polynomial (degree=2),13.092228241570135
+Pratylenchus,neglectus,2040,7.79543051413566,Polynomial (degree=2),13.092228241570135
+Pratylenchus,brachyurus,2022,17.071453974009923,Exponential,1.933728741981956
+Pratylenchus,brachyurus,2023,24.292686409622657,Exponential,1.933728741981956
+Pratylenchus,brachyurus,2024,35.0752792736333,Exponential,1.933728741981956
+Pratylenchus,brachyurus,2025,51.17562085765923,Exponential,1.933728741981956
+Pratylenchus,brachyurus,2026,60.0,Exponential,1.933728741981956
+Pratylenchus,brachyurus,2027,60.0,Exponential,1.933728741981956
+Pratylenchus,brachyurus,2028,60.0,Exponential,1.933728741981956
+Pratylenchus,brachyurus,2029,60.0,Exponential,1.933728741981956
+Pratylenchus,brachyurus,2030,60.0,Exponential,1.933728741981956
+Pratylenchus,brachyurus,2031,60.0,Exponential,1.933728741981956
+Pratylenchus,brachyurus,2032,60.0,Exponential,1.933728741981956
+Pratylenchus,brachyurus,2033,60.0,Exponential,1.933728741981956
+Pratylenchus,brachyurus,2034,60.0,Exponential,1.933728741981956
+Pratylenchus,brachyurus,2035,60.0,Exponential,1.933728741981956
+Pratylenchus,brachyurus,2036,60.0,Exponential,1.933728741981956
+Pratylenchus,brachyurus,2037,60.0,Exponential,1.933728741981956
+Pratylenchus,brachyurus,2038,60.0,Exponential,1.933728741981956
+Pratylenchus,brachyurus,2039,60.0,Exponential,1.933728741981956
+Pratylenchus,brachyurus,2040,60.0,Exponential,1.933728741981956
+Pratylenchus,brachyurus,2041,60.0,Exponential,1.933728741981956
+Pratylenchus,penetrans,2021,4.3069127714688875,Polynomial (degree=2),2.3165297010126578
+Pratylenchus,penetrans,2022,4.313219286158528,Polynomial (degree=2),2.3165297010126578
+Pratylenchus,penetrans,2023,4.317285985241142,Polynomial (degree=2),2.3165297010126578
+Pratylenchus,penetrans,2024,4.31911286871582,Polynomial (degree=2),2.3165297010126578
+Pratylenchus,penetrans,2025,4.318699936582561,Polynomial (degree=2),2.3165297010126578
+Pratylenchus,penetrans,2026,4.316047188840457,Polynomial (degree=2),2.3165297010126578
+Pratylenchus,penetrans,2027,4.311154625492236,Polynomial (degree=2),2.3165297010126578
+Pratylenchus,penetrans,2028,4.304022246535169,Polynomial (degree=2),2.3165297010126578
+Pratylenchus,penetrans,2029,4.294650051969256,Polynomial (degree=2),2.3165297010126578
+Pratylenchus,penetrans,2030,4.2830380417954075,Polynomial (degree=2),2.3165297010126578
+Pratylenchus,penetrans,2031,4.2691862160136225,Polynomial (degree=2),2.3165297010126578
+Pratylenchus,penetrans,2032,4.253094574623901,Polynomial (degree=2),2.3165297010126578
+Pratylenchus,penetrans,2033,4.234763117626244,Polynomial (degree=2),2.3165297010126578
+Pratylenchus,penetrans,2034,4.214191845019741,Polynomial (degree=2),2.3165297010126578
+Pratylenchus,penetrans,2035,4.191380756806211,Polynomial (degree=2),2.3165297010126578
+Pratylenchus,penetrans,2036,4.166329852985655,Polynomial (degree=2),2.3165297010126578
+Pratylenchus,penetrans,2037,4.139039133556253,Polynomial (degree=2),2.3165297010126578
+Pratylenchus,penetrans,2038,4.109508598518005,Polynomial (degree=2),2.3165297010126578
+Pratylenchus,penetrans,2039,4.077738247871821,Polynomial (degree=2),2.3165297010126578
+Pratylenchus,penetrans,2040,4.043728081617701,Polynomial (degree=2),2.3165297010126578
+Pratylenchus,thornei,2021,9.540639268640007,Polynomial (degree=2),5.366586191272221
+Pratylenchus,thornei,2022,9.833024916733848,Polynomial (degree=2),5.366586191272221
+Pratylenchus,thornei,2023,10.12995185845466,Polynomial (degree=2),5.366586191272221
+Pratylenchus,thornei,2024,10.431420093800625,Polynomial (degree=2),5.366586191272221
+Pratylenchus,thornei,2025,10.737429622779018,Polynomial (degree=2),5.366586191272221
+Pratylenchus,thornei,2026,11.047980445380745,Polynomial (degree=2),5.366586191272221
+Pratylenchus,thornei,2027,11.3630725616149,Polynomial (degree=2),5.366586191272221
+Pratylenchus,thornei,2028,11.682705971477844,Polynomial (degree=2),5.366586191272221
+Pratylenchus,thornei,2029,12.006880674964123,Polynomial (degree=2),5.366586191272221
+Pratylenchus,thornei,2030,12.33559667208101,Polynomial (degree=2),5.366586191272221
+Pratylenchus,thornei,2031,12.668853962828507,Polynomial (degree=2),5.366586191272221
+Pratylenchus,thornei,2032,13.006652547199337,Polynomial (degree=2),5.366586191272221
+Pratylenchus,thornei,2033,13.348992425200777,Polynomial (degree=2),5.366586191272221
+Pratylenchus,thornei,2034,13.695873596827369,Polynomial (degree=2),5.366586191272221
+Pratylenchus,thornei,2035,14.047296062086389,Polynomial (degree=2),5.366586191272221
+Pratylenchus,thornei,2036,14.40325982097238,Polynomial (degree=2),5.366586191272221
+Pratylenchus,thornei,2037,14.763764873483524,Polynomial (degree=2),5.366586191272221
+Pratylenchus,thornei,2038,15.128811219627096,Polynomial (degree=2),5.366586191272221
+Pratylenchus,thornei,2039,15.498398859394001,Polynomial (degree=2),5.366586191272221
+Pratylenchus,thornei,2040,15.872527792793335,Polynomial (degree=2),5.366586191272221
+Pratylenchus,zeae,2021,3.8916054086275835,Polynomial (degree=2),1.9370217105698686
+Pratylenchus,zeae,2022,3.826356244540875,Polynomial (degree=2),1.9370217105698686
+Pratylenchus,zeae,2023,3.7560696879882016,Polynomial (degree=2),1.9370217105698686
+Pratylenchus,zeae,2024,3.680745738969563,Polynomial (degree=2),1.9370217105698686
+Pratylenchus,zeae,2025,3.6003843974885967,Polynomial (degree=2),1.9370217105698686
+Pratylenchus,zeae,2026,3.5149856635380274,Polynomial (degree=2),1.9370217105698686
+Pratylenchus,zeae,2027,3.424549537121493,Polynomial (degree=2),1.9370217105698686
+Pratylenchus,zeae,2028,3.329076018237174,Polynomial (degree=2),1.9370217105698686
+Pratylenchus,zeae,2029,3.228565106888709,Polynomial (degree=2),1.9370217105698686
+Pratylenchus,zeae,2030,3.12301680307246,Polynomial (degree=2),1.9370217105698686
+Pratylenchus,zeae,2031,3.0124311067920644,Polynomial (degree=2),1.9370217105698686
+Pratylenchus,zeae,2032,2.8968080180475226,Polynomial (degree=2),1.9370217105698686
+Pratylenchus,zeae,2033,2.7761475368333777,Polynomial (degree=2),1.9370217105698686
+Pratylenchus,zeae,2034,2.6504496631532675,Polynomial (degree=2),1.9370217105698686
+Pratylenchus,zeae,2035,2.519714397007192,Polynomial (degree=2),1.9370217105698686
+Pratylenchus,zeae,2036,2.3839417383951513,Polynomial (degree=2),1.9370217105698686
+Pratylenchus,zeae,2037,2.2431316873171454,Polynomial (degree=2),1.9370217105698686
+Pratylenchus,zeae,2038,2.0972842437731742,Polynomial (degree=2),1.9370217105698686
+Pratylenchus,zeae,2039,1.9463994077668758,Polynomial (degree=2),1.9370217105698686
+Pratylenchus,zeae,2040,1.7904771792891552,Polynomial (degree=2),1.9370217105698686
+Xiphinema,americanum,2021,5.5718434127988985,Polynomial (degree=2),3.1702121871205806
+Xiphinema,americanum,2022,5.6520238078437615,Polynomial (degree=2),3.1702121871205806
+Xiphinema,americanum,2023,5.731010140368653,Polynomial (degree=2),3.1702121871205806
+Xiphinema,americanum,2024,5.808802410374938,Polynomial (degree=2),3.1702121871205806
+Xiphinema,americanum,2025,5.885400617861251,Polynomial (degree=2),3.1702121871205806
+Xiphinema,americanum,2026,5.960804762828502,Polynomial (degree=2),3.1702121871205806
+Xiphinema,americanum,2027,6.035014845276237,Polynomial (degree=2),3.1702121871205806
+Xiphinema,americanum,2028,6.10803086520491,Polynomial (degree=2),3.1702121871205806
+Xiphinema,americanum,2029,6.179852822614066,Polynomial (degree=2),3.1702121871205806
+Xiphinema,americanum,2030,6.250480717503706,Polynomial (degree=2),3.1702121871205806
+Xiphinema,americanum,2031,6.319914549874284,Polynomial (degree=2),3.1702121871205806
+Xiphinema,americanum,2032,6.38815431972489,Polynomial (degree=2),3.1702121871205806
+Xiphinema,americanum,2033,6.45520002705689,Polynomial (degree=2),3.1702121871205806
+Xiphinema,americanum,2034,6.521051671868918,Polynomial (degree=2),3.1702121871205806
+Xiphinema,americanum,2035,6.585709254161884,Polynomial (degree=2),3.1702121871205806
+Xiphinema,americanum,2036,6.649172773935334,Polynomial (degree=2),3.1702121871205806
+Xiphinema,americanum,2037,6.711442231189267,Polynomial (degree=2),3.1702121871205806
+Xiphinema,americanum,2038,6.772517625924138,Polynomial (degree=2),3.1702121871205806
+Xiphinema,americanum,2039,6.832398958139493,Polynomial (degree=2),3.1702121871205806
+Xiphinema,americanum,2040,6.891086227835331,Polynomial (degree=2),3.1702121871205806
+Xiphinema,index,2021,3.4930723412871885,Polynomial (degree=2),1.2086832216832684
+Xiphinema,index,2022,3.6317602639282995,Polynomial (degree=2),1.2086832216832684
+Xiphinema,index,2023,3.7744766438572697,Polynomial (degree=2),1.2086832216832684
+Xiphinema,index,2024,3.9212214810750083,Polynomial (degree=2),1.2086832216832684
+Xiphinema,index,2025,4.071994775582425,Polynomial (degree=2),1.2086832216832684
+Xiphinema,index,2026,4.22679652737861,Polynomial (degree=2),1.2086832216832684
+Xiphinema,index,2027,4.385626736462655,Polynomial (degree=2),1.2086832216832684
+Xiphinema,index,2028,4.548485402836377,Polynomial (degree=2),1.2086832216832684
+Xiphinema,index,2029,4.7153725264997775,Polynomial (degree=2),1.2086832216832684
+Xiphinema,index,2030,4.886288107451037,Polynomial (degree=2),1.2086832216832684
+Xiphinema,index,2031,5.061232145691065,Polynomial (degree=2),1.2086832216832684
+Xiphinema,index,2032,5.240204641220771,Polynomial (degree=2),1.2086832216832684
+Xiphinema,index,2033,5.423205594038336,Polynomial (degree=2),1.2086832216832684
+Xiphinema,index,2034,5.610235004147398,Polynomial (degree=2),1.2086832216832684
+Xiphinema,index,2035,5.80129287154341,Polynomial (degree=2),1.2086832216832684
+Xiphinema,index,2036,5.99637919622819,Polynomial (degree=2),1.2086832216832684
+Xiphinema,index,2037,6.195493978201739,Polynomial (degree=2),1.2086832216832684
+Xiphinema,index,2038,6.3986372174640564,Polynomial (degree=2),1.2086832216832684
+Xiphinema,index,2039,6.605808914015142,Polynomial (degree=2),1.2086832216832684
+Xiphinema,index,2040,6.817009067855906,Polynomial (degree=2),1.2086832216832684
+Heterodera,glycines,2022,1.25,Moving Average,3.1874754901018454
+Heterodera,glycines,2023,0.5,Moving Average,3.1874754901018454
+Heterodera,glycines,2024,0.0,Moving Average,3.1874754901018454
+Heterodera,glycines,2025,0.0,Moving Average,3.1874754901018454
+Heterodera,glycines,2026,0.0,Moving Average,3.1874754901018454
+Heterodera,glycines,2027,0.0,Moving Average,3.1874754901018454
+Heterodera,glycines,2028,0.0,Moving Average,3.1874754901018454
+Heterodera,glycines,2029,0.0,Moving Average,3.1874754901018454
+Heterodera,glycines,2030,0.0,Moving Average,3.1874754901018454
+Heterodera,glycines,2031,0.0,Moving Average,3.1874754901018454
+Heterodera,glycines,2032,0.0,Moving Average,3.1874754901018454
+Heterodera,glycines,2033,0.0,Moving Average,3.1874754901018454
+Heterodera,glycines,2034,0.0,Moving Average,3.1874754901018454
+Heterodera,glycines,2035,0.0,Moving Average,3.1874754901018454
+Heterodera,glycines,2036,0.0,Moving Average,3.1874754901018454
+Heterodera,glycines,2037,0.0,Moving Average,3.1874754901018454
+Heterodera,glycines,2038,0.0,Moving Average,3.1874754901018454
+Heterodera,glycines,2039,0.0,Moving Average,3.1874754901018454
+Heterodera,glycines,2040,0.0,Moving Average,3.1874754901018454
+Heterodera,glycines,2041,0.0,Moving Average,3.1874754901018454
+Heterodera,schachtii,2021,7.679158762111911,Polynomial (degree=2),2.865218006478657
+Heterodera,schachtii,2022,7.9835383960926265,Polynomial (degree=2),2.865218006478657
+Heterodera,schachtii,2023,8.2965117023341,Polynomial (degree=2),2.865218006478657
+Heterodera,schachtii,2024,8.618078680836334,Polynomial (degree=2),2.865218006478657
+Heterodera,schachtii,2025,8.948239331595687,Polynomial (degree=2),2.865218006478657
+Heterodera,schachtii,2026,9.286993654615799,Polynomial (degree=2),2.865218006478657
+Heterodera,schachtii,2027,9.634341649896669,Polynomial (degree=2),2.865218006478657
+Heterodera,schachtii,2028,9.99028331743466,Polynomial (degree=2),2.865218006478657
+Heterodera,schachtii,2029,10.354818657240685,Polynomial (degree=2),2.865218006478657
+Heterodera,schachtii,2030,10.727947669296555,Polynomial (degree=2),2.865218006478657
+Heterodera,schachtii,2031,11.109670353613183,Polynomial (degree=2),2.865218006478657
+Heterodera,schachtii,2032,11.499986710186931,Polynomial (degree=2),2.865218006478657
+Heterodera,schachtii,2033,11.898896739021438,Polynomial (degree=2),2.865218006478657
+Heterodera,schachtii,2034,12.306400440116704,Polynomial (degree=2),2.865218006478657
+Heterodera,schachtii,2035,12.722497813472728,Polynomial (degree=2),2.865218006478657
+Heterodera,schachtii,2036,13.147188859085873,Polynomial (degree=2),2.865218006478657
+Heterodera,schachtii,2037,13.580473576963414,Polynomial (degree=2),2.865218006478657
+Heterodera,schachtii,2038,14.022351967098075,Polynomial (degree=2),2.865218006478657
+Heterodera,schachtii,2039,14.472824029486219,Polynomial (degree=2),2.865218006478657
+Heterodera,schachtii,2040,14.93188976413876,Polynomial (degree=2),2.865218006478657
+Heterodera,avenae,2021,1.684283680538556,Polynomial (degree=2),0.5778047571087415
+Heterodera,avenae,2022,1.6815916773080062,Polynomial (degree=2),0.5778047571087415
+Heterodera,avenae,2023,1.6781044166925767,Polynomial (degree=2),0.5778047571087415
+Heterodera,avenae,2024,1.6738218986934044,Polynomial (degree=2),0.5778047571087415
+Heterodera,avenae,2025,1.6687441233095797,Polynomial (degree=2),0.5778047571087415
+Heterodera,avenae,2026,1.6628710905417847,Polynomial (degree=2),0.5778047571087415
+Heterodera,avenae,2027,1.6562028003897922,Polynomial (degree=2),0.5778047571087415
+Heterodera,avenae,2028,1.6487392528531473,Polynomial (degree=2),0.5778047571087415
+Heterodera,avenae,2029,1.6404804479325321,Polynomial (degree=2),0.5778047571087415
+Heterodera,avenae,2030,1.631426385627492,Polynomial (degree=2),0.5778047571087415
+Heterodera,avenae,2031,1.6215770659377995,Polynomial (degree=2),0.5778047571087415
+Heterodera,avenae,2032,1.6109324888643641,Polynomial (degree=2),0.5778047571087415
+Heterodera,avenae,2033,1.5994926544065038,Polynomial (degree=2),0.5778047571087415
+Heterodera,avenae,2034,1.587257562563991,Polynomial (degree=2),0.5778047571087415
+Heterodera,avenae,2035,1.5742272133377355,Polynomial (degree=2),0.5778047571087415
+Heterodera,avenae,2036,1.5604016067266002,Polynomial (degree=2),0.5778047571087415
+Heterodera,avenae,2037,1.5457807427314947,Polynomial (degree=2),0.5778047571087415
+Heterodera,avenae,2038,1.5303646213521915,Polynomial (degree=2),0.5778047571087415
+Heterodera,avenae,2039,1.514153242588236,Polynomial (degree=2),0.5778047571087415
+Heterodera,avenae,2040,1.4971466064403103,Polynomial (degree=2),0.5778047571087415
+Bursaphelenchus,xylophilus,2024,14.811798149443348,Polynomial (degree=2),10.1480680003825
+Bursaphelenchus,xylophilus,2025,14.82694965518749,Polynomial (degree=2),10.1480680003825
+Bursaphelenchus,xylophilus,2026,14.822359927275102,Polynomial (degree=2),10.1480680003825
+Bursaphelenchus,xylophilus,2027,14.798028965735284,Polynomial (degree=2),10.1480680003825
+Bursaphelenchus,xylophilus,2028,14.753956770531659,Polynomial (degree=2),10.1480680003825
+Bursaphelenchus,xylophilus,2029,14.690143341693329,Polynomial (degree=2),10.1480680003825
+Bursaphelenchus,xylophilus,2030,14.606588679220295,Polynomial (degree=2),10.1480680003825
+Bursaphelenchus,xylophilus,2031,14.503292783090728,Polynomial (degree=2),10.1480680003825
+Bursaphelenchus,xylophilus,2032,14.380255653326458,Polynomial (degree=2),10.1480680003825
+Bursaphelenchus,xylophilus,2033,14.237477289912931,Polynomial (degree=2),10.1480680003825
+Bursaphelenchus,xylophilus,2034,14.0749576928647,Polynomial (degree=2),10.1480680003825
+Bursaphelenchus,xylophilus,2035,13.892696862159937,Polynomial (degree=2),10.1480680003825
+Bursaphelenchus,xylophilus,2036,13.690694797827746,Polynomial (degree=2),10.1480680003825
+Bursaphelenchus,xylophilus,2037,13.468951499839022,Polynomial (degree=2),10.1480680003825
+Bursaphelenchus,xylophilus,2038,13.227466968201043,Polynomial (degree=2),10.1480680003825
+Bursaphelenchus,xylophilus,2039,12.966241202935635,Polynomial (degree=2),10.1480680003825
+Bursaphelenchus,xylophilus,2040,12.685274204013695,Polynomial (degree=2),10.1480680003825
+Bursaphelenchus,xylophilus,2041,12.384565971464326,Polynomial (degree=2),10.1480680003825
+Bursaphelenchus,xylophilus,2042,12.064116505258426,Polynomial (degree=2),10.1480680003825
+Bursaphelenchus,xylophilus,2043,11.723925805425097,Polynomial (degree=2),10.1480680003825
+Globodera,rostochiensis,2022,10.35302050869177,Polynomial (degree=2),4.419854037165692
+Globodera,rostochiensis,2023,10.700607878145092,Polynomial (degree=2),4.419854037165692
+Globodera,rostochiensis,2024,11.054899013475733,Polynomial (degree=2),4.419854037165692
+Globodera,rostochiensis,2025,11.415893914678236,Polynomial (degree=2),4.419854037165692
+Globodera,rostochiensis,2026,11.7835925817526,Polynomial (degree=2),4.419854037165692
+Globodera,rostochiensis,2027,12.157995014704284,Polynomial (degree=2),4.419854037165692
+Globodera,rostochiensis,2028,12.53910121352601,Polynomial (degree=2),4.419854037165692
+Globodera,rostochiensis,2029,12.926911178223236,Polynomial (degree=2),4.419854037165692
+Globodera,rostochiensis,2030,13.321424908795962,Polynomial (degree=2),4.419854037165692
+Globodera,rostochiensis,2031,13.72264240523873,Polynomial (degree=2),4.419854037165692
+Globodera,rostochiensis,2032,14.130563667556999,Polynomial (degree=2),4.419854037165692
+Globodera,rostochiensis,2033,14.545188695747129,Polynomial (degree=2),4.419854037165692
+Globodera,rostochiensis,2034,14.966517489816397,Polynomial (degree=2),4.419854037165692
+Globodera,rostochiensis,2035,15.394550049753889,Polynomial (degree=2),4.419854037165692
+Globodera,rostochiensis,2036,15.829286375565061,Polynomial (degree=2),4.419854037165692
+Globodera,rostochiensis,2037,16.270726467255372,Polynomial (degree=2),4.419854037165692
+Globodera,rostochiensis,2038,16.718870324813906,Polynomial (degree=2),4.419854037165692
+Globodera,rostochiensis,2039,17.17371794824794,Polynomial (degree=2),4.419854037165692
+Globodera,rostochiensis,2040,17.635269337557475,Polynomial (degree=2),4.419854037165692
+Globodera,rostochiensis,2041,18.10352449273705,Polynomial (degree=2),4.419854037165692
+Globodera,pallida,2021,11.838287137969019,Polynomial (degree=2),5.917264114183764
+Globodera,pallida,2022,12.211067184611238,Polynomial (degree=2),5.917264114183764
+Globodera,pallida,2023,12.588887133862954,Polynomial (degree=2),5.917264114183764
+Globodera,pallida,2024,12.97174698571689,Polynomial (degree=2),5.917264114183764
+Globodera,pallida,2025,13.359646740178505,Polynomial (degree=2),5.917264114183764
+Globodera,pallida,2026,13.752586397244158,Polynomial (degree=2),5.917264114183764
+Globodera,pallida,2027,14.150565956921128,Polynomial (degree=2),5.917264114183764
+Globodera,pallida,2028,14.553585419198498,Polynomial (degree=2),5.917264114183764
+Globodera,pallida,2029,14.961644784085365,Polynomial (degree=2),5.917264114183764
+Globodera,pallida,2030,15.374744051574453,Polynomial (degree=2),5.917264114183764
+Globodera,pallida,2031,15.792883221674856,Polynomial (degree=2),5.917264114183764
+Globodera,pallida,2032,16.21606229437748,Polynomial (degree=2),5.917264114183764
+Globodera,pallida,2033,16.64428126968778,Polynomial (degree=2),5.917264114183764
+Globodera,pallida,2034,17.07754014760212,Polynomial (degree=2),5.917264114183764
+Globodera,pallida,2035,17.51583892812596,Polynomial (degree=2),5.917264114183764
+Globodera,pallida,2036,17.959177611252017,Polynomial (degree=2),5.917264114183764
+Globodera,pallida,2037,18.40755619698757,Polynomial (degree=2),5.917264114183764
+Globodera,pallida,2038,18.860974685325345,Polynomial (degree=2),5.917264114183764
+Globodera,pallida,2039,19.319433076272617,Polynomial (degree=2),5.917264114183764
+Globodera,pallida,2040,19.782931369823928,Polynomial (degree=2),5.917264114183764
+Aphelenchoides,besseyi,2023,3.60267084923089,Polynomial (degree=2),1.4571993071385085
+Aphelenchoides,besseyi,2024,3.6469762496999465,Polynomial (degree=2),1.4571993071385085
+Aphelenchoides,besseyi,2025,3.6888664058515133,Polynomial (degree=2),1.4571993071385085
+Aphelenchoides,besseyi,2026,3.7283413176901377,Polynomial (degree=2),1.4571993071385085
+Aphelenchoides,besseyi,2027,3.765400985213091,Polynomial (degree=2),1.4571993071385085
+Aphelenchoides,besseyi,2028,3.800045408422193,Polynomial (degree=2),1.4571993071385085
+Aphelenchoides,besseyi,2029,3.832274587316533,Polynomial (degree=2),1.4571993071385085
+Aphelenchoides,besseyi,2030,3.862088521894293,Polynomial (degree=2),1.4571993071385085
+Aphelenchoides,besseyi,2031,3.8894872121591106,Polynomial (degree=2),1.4571993071385085
+Aphelenchoides,besseyi,2032,3.914470658109167,Polynomial (degree=2),1.4571993071385085
+Aphelenchoides,besseyi,2033,3.937038859741733,Polynomial (degree=2),1.4571993071385085
+Aphelenchoides,besseyi,2034,3.9571918170622666,Polynomial (degree=2),1.4571993071385085
+Aphelenchoides,besseyi,2035,3.9749295300671292,Polynomial (degree=2),1.4571993071385085
+Aphelenchoides,besseyi,2036,3.990251998756321,Polynomial (degree=2),1.4571993071385085
+Aphelenchoides,besseyi,2037,4.003159223131661,Polynomial (degree=2),1.4571993071385085
+Aphelenchoides,besseyi,2038,4.013651203192239,Polynomial (degree=2),1.4571993071385085
+Aphelenchoides,besseyi,2039,4.021727938937147,Polynomial (degree=2),1.4571993071385085
+Aphelenchoides,besseyi,2040,4.027389430368203,Polynomial (degree=2),1.4571993071385085
+Aphelenchoides,besseyi,2041,4.030635677482678,Polynomial (degree=2),1.4571993071385085
+Aphelenchoides,besseyi,2042,4.031466680284211,Polynomial (degree=2),1.4571993071385085
+Ditylenchus,dipsaci,2022,8.5,Moving Average,2.6076809620810595
+Ditylenchus,dipsaci,2023,8.0,Moving Average,2.6076809620810595
+Ditylenchus,dipsaci,2024,7.5,Moving Average,2.6076809620810595
+Ditylenchus,dipsaci,2025,7.0,Moving Average,2.6076809620810595
+Ditylenchus,dipsaci,2026,6.5,Moving Average,2.6076809620810595
+Ditylenchus,dipsaci,2027,6.0,Moving Average,2.6076809620810595
+Ditylenchus,dipsaci,2028,5.5,Moving Average,2.6076809620810595
+Ditylenchus,dipsaci,2029,5.0,Moving Average,2.6076809620810595
+Ditylenchus,dipsaci,2030,4.5,Moving Average,2.6076809620810595
+Ditylenchus,dipsaci,2031,4.0,Moving Average,2.6076809620810595
+Ditylenchus,dipsaci,2032,3.5,Moving Average,2.6076809620810595
+Ditylenchus,dipsaci,2033,3.0,Moving Average,2.6076809620810595
+Ditylenchus,dipsaci,2034,2.5,Moving Average,2.6076809620810595
+Ditylenchus,dipsaci,2035,2.0,Moving Average,2.6076809620810595
+Ditylenchus,dipsaci,2036,1.5,Moving Average,2.6076809620810595
+Ditylenchus,dipsaci,2037,1.0,Moving Average,2.6076809620810595
+Ditylenchus,dipsaci,2038,0.5,Moving Average,2.6076809620810595
+Ditylenchus,dipsaci,2039,0.0,Moving Average,2.6076809620810595
+Ditylenchus,dipsaci,2040,0.0,Moving Average,2.6076809620810595
+Ditylenchus,dipsaci,2041,0.0,Moving Average,2.6076809620810595
+Ditylenchus,destructor,2021,20.053432914956645,Exponential,0.6486052016339183
+Ditylenchus,destructor,2022,23.598926188570466,Exponential,0.6486052016339183
+Ditylenchus,destructor,2023,27.791117298951843,Exponential,0.6486052016339183
+Ditylenchus,destructor,2024,32.74796390665889,Exponential,0.6486052016339183
+Ditylenchus,destructor,2025,38.60893914499942,Exponential,0.6486052016339183
+Ditylenchus,destructor,2026,45.5389560414334,Exponential,0.6486052016339183
+Ditylenchus,destructor,2027,53.73300775328771,Exponential,0.6486052016339183
+Ditylenchus,destructor,2028,63.42165418228746,Exponential,0.6486052016339183
+Ditylenchus,destructor,2029,74.87750934736626,Exponential,0.6486052016339183
+Ditylenchus,destructor,2030,85.0,Exponential,0.6486052016339183
+Ditylenchus,destructor,2031,85.0,Exponential,0.6486052016339183
+Ditylenchus,destructor,2032,85.0,Exponential,0.6486052016339183
+Ditylenchus,destructor,2033,85.0,Exponential,0.6486052016339183
+Ditylenchus,destructor,2034,85.0,Exponential,0.6486052016339183
+Ditylenchus,destructor,2035,85.0,Exponential,0.6486052016339183
+Ditylenchus,destructor,2036,85.0,Exponential,0.6486052016339183
+Ditylenchus,destructor,2037,85.0,Exponential,0.6486052016339183
+Ditylenchus,destructor,2038,85.0,Exponential,0.6486052016339183
+Ditylenchus,destructor,2039,85.0,Exponential,0.6486052016339183
+Ditylenchus,destructor,2040,85.0,Exponential,0.6486052016339183
